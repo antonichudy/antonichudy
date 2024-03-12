@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi 👋
 
+I am studying Mathematics and Data Analysis at Warsaw University of Technolngogy. I am interested in Data Science, Statistics and Machine Learning.
+
+🎓 Currently teaching:
+[Mathematical Statistics]https://github.com/antonichudy/MathematicalStatistics_2024L
+
+📫 How to reach me:
+* [LinkedIn]www.linkedin.com/in/antoni-chudy
+* antonichudy25@gmail.com
+* antoni.chudy.stud@pw.edu.pl
+  
 <!--
 **antonichudy/antonichudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
