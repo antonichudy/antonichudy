@@ -4,10 +4,10 @@ I am studying Mathematics and Data Analysis at Warsaw University of Technolngogy
 
 🎓 Currently teaching:
 
-[Mathematical Statistics] (https://github.com/antonichudy/MathematicalStatistics_2024L)
+[Mathematical Statistics](https://github.com/antonichudy/MathematicalStatistics_2024L)
 
 📫 How to reach me:
-* [LinkedIn] (www.linkedin.com/in/antoni-chudy)
+* [LinkedIn](www.linkedin.com/in/antoni-chudy)
 * antonichudy25@gmail.com
 * antoni.chudy.stud@pw.edu.pl
   
