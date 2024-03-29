@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am studying Mathematics and Data Analysis at Warsaw University of Technolngogy. I am interested in Data Science, Statistics and Machine Learning.
+I am studying Mathematics and Data Analysis at Warsaw University of Technology. I am interested in Data Science, Statistics and Machine Learning.
 
 🎓 Currently teaching:
 
