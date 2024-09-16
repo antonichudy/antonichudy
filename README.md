@@ -5,6 +5,7 @@ I am studying Mathematics and Data Analysis at Warsaw University of Technology. 
 🎓 Currently teaching:
 
 Introduction to Financial and Insurance Mathematics
+
 [Mathematical Statistics](https://github.com/antonichudy/MathematicalStatistics_2024L)
 
 📫 How to reach me:
