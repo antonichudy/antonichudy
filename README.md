@@ -1,15 +1,16 @@
 ### Hi 👋
 
-I am studying Mathematics and Data Analysis at Warsaw University of Technology. I am interested in Data Science, Statistics and Machine Learning.
+Mathematics and Data Analysis Graduate at Warsaw University of Technology. 
+Interested in construction and validation of machine learning models and generalised linear models & Statistics/Biostatistics 
 
-🎓 Currently teaching:
-
+🎓 Teaching at MiNI PW:
+* Introduction to exploratory data analysis
+* Data Visualization Techniques
 * Introduction to Financial and Insurance Mathematics
-* [Mathematical Statistics](https://github.com/antonichudy/MathematicalStatistics_2024L)
+* Mathematical Statistics
 
-📫 How to reach me:
-* antonichudy25@gmail.com
-* antoni.chudy.stud@pw.edu.pl
+📫 Contact:
+* antoni.chudy@pw.edu.pl
   
 <!--
 **antonichudy/antonichudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
