@@ -2,8 +2,6 @@
 
 Mathematics and Data Analysis Graduate at Warsaw University of Technology. 
 
-Interested in construction and validation of machine learning models and generalised linear models & Statistics/Biostatistics 
-
 🎓 Teaching at MiNI PW:
 * Introduction to exploratory data analysis
 * Data Visualization Techniques
